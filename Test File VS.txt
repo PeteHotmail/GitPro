@@ -4,3 +4,4 @@ This is the third change and second in VS
 This the fourth change in the file
 This is the fifth change
 This is the sixth change make on gitHub
+This is the seventh change and is done using a pull
